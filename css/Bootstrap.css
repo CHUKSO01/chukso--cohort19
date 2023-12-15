@@ -1,0 +1,29 @@
+.container-flex{
+
+    display: flex;
+
+    
+   
+}
+.default{
+
+    margin: 0px 20px;
+}
+.default-outline{
+    margin: 0px 20px;
+
+}
+
+.default-round{
+
+    margin: 0px 20px;
+
+
+}
+
+.outline-round{
+
+    margin: 0px 20px;
+
+
+}
